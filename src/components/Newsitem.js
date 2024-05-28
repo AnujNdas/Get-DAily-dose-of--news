@@ -20,3 +20,4 @@ const Newsitem =(props)=> {
 
 export default Newsitem
 
+
