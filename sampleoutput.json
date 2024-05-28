@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 14,
+    "articles": [
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "O.J. Simpson, controversial actor and football star, dies",
+            "description": "O.J. Simpson, a controversial actor, football star, and murder trial subject, has died at age 76 following a battle with cancer.",
+            "url": "https://ew.com/oj-simpson-dead-cancer-8630032",
+            "urlToImage": "https://ew.com/thmb/1s3LRkjHV0n9q7Zli0ICLblDkBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/oj-simpson-041124-d9957c92c3de4c6395653b9442d55d8f.jpg",
+            "publishedAt": "2024-04-11T15:07:20.5115177Z",
+            "content": "O.J. Simpson, the controversial football star and high-profile subject of one of the most famous murder trials of all time, which involved the death of his wife, Nicole Simpson has died at age 76.\r\nT… [+550 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "OJ Simpson: Former American footballer dies aged 76, family says",
+            "description": "The ex-NFL star was controversially cleared of double murder in 1995.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68792486",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2024-04-11T15:07:20.4646554Z",
+            "content": "OJ Simpson, the former American footballer who was controversially cleared of double murder, has died aged 76, his family says.\r\nOrenthal James Simpson rose to fame as a college footballer before pla… [+691 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "O.J. Simpson dead at 76 | CBC News",
+            "description": "O.J. Simpson, the football star, actor and pitchman whose shocking arrest for double murder and subsequent acquittal at trial shone a light on American race relations, has died.",
+            "url": "http://www.cbc.ca/news/world/simpson-oj-obit-1.7170497",
+            "urlToImage": "https://i.cbc.ca/1.7170517.1712846955!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/oj-simpson.jpg",
+            "publishedAt": "2024-04-11T15:07:19.3243138Z",
+            "content": "O.J. Simpson, the football star, actor and pitchman whose shocking arrest for double murder and subsequent acquittal at trial shone a light on American race relations, has died. He was 76.\r\nMore to c… [+3 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "KEN RITTER",
+            "title": "OJ Simpson, fallen football hero acquitted of murder in 'trial of the century,' dies at 76",
+            "description": "LAS VEGAS (AP) — O.J. Simpson, the decorated football superstar and Hollywood actor who was acquitted of charges he killed his former wife and her friend but later found liable in a separate civil trial, has died.",
+            "url": "https://apnews.com/5f2e659775684544b3034c380157cac9",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/4259c9d28b2b451eb834c3115b63ccd0/2000.jpeg",
+            "publishedAt": "2024-04-11T15:00:48Z",
+            "content": "LAS VEGAS (AP) — O.J. Simpson, the decorated football superstar and Hollywood actor who was acquitted of charges he killed his former wife and her friend but later found liable in a separate civil tr… [+5686 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "OJ Simpson, former US football star acquitted of murder, dies aged 76",
+            "description": "Simpson died this week after a battle with cancer, his family announced in a statement on social media.",
+            "url": "https://www.aljazeera.com/news/2024/4/11/oj-simpson-former-us-football-star-acquitted-of-murder-dies-aged-76",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/AP21348686799998-1712846599.jpg?resize=1920%2C1386",
+            "publishedAt": "2024-04-11T14:58:30Z",
+            "content": "OJ Simpson, a former United States football star acquitted of murder in a widely watched trial in the 1990s, has died at age 76.\r\nIn a statement shared on social media on Thursday morning, Simpsons f… [+283 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rick Maese, Glenn Frankel, Matt Schudel",
+            "title": "O.J. Simpson, football great whose trial for murder became a phenomenon, dies at 76",
+            "description": "The amiable actor and pitchman saw his legacy spiral after the murder of his ex-wife and her friend.",
+            "url": "https://www.washingtonpost.com/obituaries/2024/04/11/oj-simpson-football-murder-trial-dead/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4T2GLIHXQGEKJS3SKM4XKKQVYY.jpg&w=1440",
+            "publishedAt": "2024-04-11T14:58:08Z",
+            "content": "O.J. Simpson, the football superstar who became a symbol of domestic violence and racial division after he was found not guilty of murdering his ex-wife and her friend in a trial that riveted the nat… [+20414 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "O.J. Simpson, acquitted murder defendant and football star, dies at age 76",
+            "description": "O.J. Simpson was famously acquitted in the 1994 slayings of his ex-wife, Nicole Brown Simpson, and her friend Ronald Goldman.",
+            "url": "https://www.cbsnews.com/news/oj-simpson-dies-age-76-acquitted-murder-defendant-football/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2021/12/14/833d09b9-2aa4-4269-8e0c-9f55002c939c/thumbnail/1200x630g2/e62c6ad0f305bfa86902d6dafd5ed61c/ap21348687066956.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-11T14:57:02+00:00",
+            "content": "O.J. Simpson, the acquitted California murder defendant, former football star and actor, has died, his agent confirmed to CBS News. He was 76.\r\nA statement posted to social media by Simpson's family … [+803 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "O.J. Simpson's attorney tells TMZ the former football hero and celebrity criminal defendant has died at age 76",
+            "description": "LAS VEGAS (AP) — O.J. Simpson's attorney tells TMZ the former football hero and celebrity criminal defendant has died at age 76.",
+            "url": "https://apnews.com/7871a71f0259dc8d4e90c705d26bb6ce",
+            "urlToImage": "",
+            "publishedAt": "2024-04-11T14:56:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "rtl-nieuws",
+                "name": "RTL Nieuws"
+            },
+            "author": "RTL Nieuws",
+            "title": "Acteur, footballspeler en moordverdachte O.J. Simpson (76) overleden",
+            "description": "De Amerikaanse voormalige American footballspeler en acteur O.J. Simpson is op 76-jarige leeftijd overleden aan kanker. Dat schrijft de familie op het X-account van Simpson. Simpson werd wereldberoemd toen hij werd beschuldigd van de dubbele moord op zijn ex-…",
+            "url": "https://www.rtlnieuws.nl/nieuws/buitenland/artikel/5444909/acteur-footballspeler-en-moordverdachte-oj-simpson-overleden",
+            "urlToImage": "https://www.rtlnieuws.nl/sites/default/files/content/images/2024/04/11/ANP-53181671.jpg?itok=lZhJITmu&offsetX=0&offsetY=0&cropWidth=1024&cropHeight=576&width=2048&height=1152&impolicy=dynamic",
+            "publishedAt": "2024-04-11T14:50:00+00:00",
+            "content": "O.J. Simpson speelde tussen 1969 en 1979 professioneel American football in de hoogste Amerikaanse competitie, de NFL. Hij speelde voor de Buffalo Bills en de San Francisco 49ers. \r\nNa zijn sportcarr… [+313 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "FOCUS online",
+            "title": "Mordprozess machte ihn weltberühmt: O.J. Simpson ist tot",
+            "description": "O. J. Simpson ist tot. Das berichtet der US-Sender TMZ. Der Ex-Footballstar wurde durch einen Mordprozess in den Neunzigern weltberühmt. Nun ist Simpson im Alter von 76 Jahren an den Folgen seiner Krebs-Erkrankung gestorben.",
+            "url": "https://www.focus.de/panorama/welt/ex-footballstar-litt-an-krebs-mordprozess-machte-ihn-weltberuehmt-oj-simpson-ist-tot_id_259846193.html",
+            "urlToImage": "https://p6.focus.de/img/kultur/vermischtes/id_259657250/o.j.-simpson-soll-angeblich-krebs-haben..jpg?im=Crop%3D%280%2C125%2C1000%2C500%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=10d74e5f19d720561d671af3d6b672d85418ed5d69d0ea11674d5de17815e59b",
+            "publishedAt": "2024-04-11T14:42:35Z",
+            "content": "<ul><li>\r\nKommentare</li><li>\r\nE-Mail</li><li>\r\nTeilen</li><li>\r\nMehr</li><li>\r\nTwitter</li><li>\r\nDrucken</li><li>\r\nFeedback</li><li>\r\nFehler meldenSie haben einen Fehler gefunden?\r\nBitte markieren S… [+552 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "National Football League\n     <!----> \n        Five potential Cowboys picks to track at the NFL Draft Combine\n       \n      1 hour ago",
+            "description": null,
+            "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T18:37:22.5746516Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "Monika Preuk",
+            "title": "Prostatakrebs: Diese 5 Risikofaktoren müssen Sie kennen",
+            "description": "Footballstar O. J. Simpson litt an Prostatakrebs. Nun ist er in Folge seiner schweren Krankheit gestorben. Welche Risikofaktoren Männer kennen sollten.",
+            "url": "https://www.focus.de/gesundheit/ratgeber/5-unbekannte-risikofaktoren-fuer-prostatakrebs-die-sie-selbst-in-der-hand-haben_id_107986148.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_136762968/gettyimages-1315574929-2-.jpg?im=Crop%3D%280%2C118%2C3771%2C1885%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=1d8c97c8571390dce2c06190a81b5a3de802999e7ba917b3f8fb98c195eace63",
+            "publishedAt": "2024-01-09T19:54:21Z",
+            "content": "<ul><li>\r\nKommentare</li><li>\r\nE-Mail</li><li>\r\nTeilen</li><li>\r\nMehr</li><li>\r\nTwitter</li><li>\r\nDrucken</li><li>\r\nFeedback</li><li>\r\nFehler meldenSie haben einen Fehler gefunden?\r\nBitte markieren S… [+6958 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
