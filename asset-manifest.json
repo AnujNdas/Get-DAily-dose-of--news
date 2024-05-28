@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Get-DAily-dose-of--news/static/css/main.e6c13ad2.css",
+    "main.js": "/Get-DAily-dose-of--news/static/js/main.cfec7207.js",
+    "static/js/488.dd859ec7.chunk.js": "/Get-DAily-dose-of--news/static/js/488.dd859ec7.chunk.js",
+    "static/media/89.gif": "/Get-DAily-dose-of--news/static/media/89.00247aa867922bac5a44.gif",
+    "index.html": "/Get-DAily-dose-of--news/index.html",
+    "main.e6c13ad2.css.map": "/Get-DAily-dose-of--news/static/css/main.e6c13ad2.css.map",
+    "main.cfec7207.js.map": "/Get-DAily-dose-of--news/static/js/main.cfec7207.js.map",
+    "488.dd859ec7.chunk.js.map": "/Get-DAily-dose-of--news/static/js/488.dd859ec7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cfec7207.js"
+  ]
+}
